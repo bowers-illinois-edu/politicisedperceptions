@@ -1,0 +1,1 @@
+This is where we will store files related to the manuscript itself. Probably figures and tables will go in a different place. And files for analyzing data will also go elsehwere within this repository.
